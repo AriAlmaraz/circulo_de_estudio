@@ -1,0 +1,16 @@
+#contenedor{
+    width: 400px;
+    height: 400px;
+    background-color: darkred;
+}
+
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    border: 1px solid black;
+}
+
+#contenedor div{
+    background-color: blue;
+}
